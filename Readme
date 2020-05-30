@@ -1,0 +1,4 @@
+This folder contains some of the applications of Machine Learning.
+There are three approaches to facial recognition. The folder contains code for the threee approaches. these are KNN, Tensorflow 
+and Support Vector Machine.
+Codes are simple and ready to use in Jupyter Notebook
